@@ -1,2 +1,2 @@
-# Tugas-praktikum-per2
+Praktikum1-PBO
 kode program praktikum PBO
